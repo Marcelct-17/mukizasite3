@@ -1,0 +1,7 @@
+{
+  "name": "mukiza-site",
+  "private": true,
+  "scripts": {
+    "build": "python build.py"
+  }
+}
